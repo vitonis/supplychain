@@ -1,0 +1,319 @@
+{
+  "communities": {
+    "0": [
+      "admin_usermanagement_usermanagement",
+      "components_admin_usermanagement_js",
+      "utils_kycstorage_adddemokycusers",
+      "utils_kycstorage_addkycuser",
+      "utils_kycstorage_clearallkycdata",
+      "utils_kycstorage_exportkycdata",
+      "utils_kycstorage_generateuserid",
+      "utils_kycstorage_getkycstatistics",
+      "utils_kycstorage_getkycstorageinfo",
+      "utils_kycstorage_getkycuserbyaddress",
+      "utils_kycstorage_getkycusers",
+      "utils_kycstorage_getkycusersbystatus",
+      "utils_kycstorage_importkycdata",
+      "utils_kycstorage_isvalidemail",
+      "utils_kycstorage_isvalidwalletaddress",
+      "utils_kycstorage_js",
+      "utils_kycstorage_reactivatekycuser",
+      "utils_kycstorage_rejectkycuser",
+      "utils_kycstorage_removekycuser",
+      "utils_kycstorage_savekycusers",
+      "utils_kycstorage_searchkycusers",
+      "utils_kycstorage_suspendkycuser",
+      "utils_kycstorage_updatekycstatistics",
+      "utils_kycstorage_updatekycuser",
+      "utils_kycstorage_validatekycuserdata",
+      "utils_kycstorage_verifykycuser"
+    ],
+    "1": [
+      "components_dashboard_activitychart_js",
+      "components_dashboard_recentshipments_js",
+      "dashboard_activitychart_activitychart",
+      "dashboard_recentshipments_recentshipments",
+      "hooks_usecontract_js",
+      "hooks_usecontract_usesupplychaincontract",
+      "pages_create_shipment_createshipment",
+      "pages_create_shipment_js",
+      "pages_index_dashboard",
+      "pages_index_js",
+      "pages_shipments_js",
+      "pages_shipments_myshipments",
+      "pages_tracking_id_js",
+      "pages_tracking_js",
+      "pages_tracking_trackingpage",
+      "tracking_id_trackingdetails"
+    ],
+    "2": [
+      "utils_notificationstorage_addnotification",
+      "utils_notificationstorage_cleanupoldnotifications",
+      "utils_notificationstorage_clearallnotifications",
+      "utils_notificationstorage_generateid",
+      "utils_notificationstorage_getnotifications",
+      "utils_notificationstorage_getnotificationsbytype",
+      "utils_notificationstorage_getrelativetime",
+      "utils_notificationstorage_getstorageinfo",
+      "utils_notificationstorage_getunreadcount",
+      "utils_notificationstorage_js",
+      "utils_notificationstorage_markallasread",
+      "utils_notificationstorage_markasread",
+      "utils_notificationstorage_removenotification",
+      "utils_notificationstorage_savenotifications",
+      "utils_notificationstorage_updatenotificationtimes"
+    ],
+    "3": [
+      "hooks_usesupplychainactions_js",
+      "hooks_usesupplychainactions_useapprovekyc",
+      "hooks_usesupplychainactions_usecancelshipment",
+      "hooks_usesupplychainactions_usecompleteshipment",
+      "hooks_usesupplychainactions_usecreateshipment",
+      "hooks_usesupplychainactions_useregisteruser",
+      "hooks_usesupplychainactions_userejectkyc",
+      "hooks_usesupplychainactions_usestartshipment",
+      "hooks_usesupplychainactions_useupdatetracking",
+      "pages_admin_adminpanel",
+      "pages_admin_js",
+      "pages_kyc_js",
+      "pages_kyc_kycverification"
+    ],
+    "4": [
+      "components_layout_globalerrorboundary_js",
+      "layout_globalerrorboundary_globalerrorboundary",
+      "layout_globalerrorboundary_globalerrorboundary_componentdidcatch",
+      "layout_globalerrorboundary_globalerrorboundary_constructor",
+      "layout_globalerrorboundary_globalerrorboundary_getderivedstatefromerror",
+      "layout_globalerrorboundary_globalerrorboundary_render"
+    ],
+    "5": [
+      "utils_pinata_getfromipfs",
+      "utils_pinata_js",
+      "utils_pinata_uploadfiletoipfs",
+      "utils_pinata_uploadjsontoipfs",
+      "utils_pinata_uploadmultiplefiles"
+    ],
+    "6": [
+      "admin_activeshipments_activeshipments",
+      "components_admin_activeshipments_js"
+    ],
+    "7": [
+      "admin_adminstats_adminstats",
+      "components_admin_adminstats_js"
+    ],
+    "8": [
+      "admin_pendingkyc_pendingkyc",
+      "components_admin_pendingkyc_js"
+    ],
+    "9": [
+      "components_dashboard_quickactions_js",
+      "dashboard_quickactions_quickactions"
+    ],
+    "10": [
+      "components_dashboard_statscard_js",
+      "dashboard_statscard_statscard"
+    ],
+    "11": [
+      "components_layout_customconnectbutton_js",
+      "layout_customconnectbutton_customconnectbutton"
+    ],
+    "12": [
+      "components_layout_header_js",
+      "layout_header_header"
+    ],
+    "13": [
+      "components_layout_layout_js",
+      "layout_layout_layout"
+    ],
+    "14": [
+      "components_layout_sidebar_js",
+      "layout_sidebar_sidebar"
+    ],
+    "15": [
+      "pages_app_app",
+      "pages_app_js"
+    ],
+    "16": [
+      "scripts_deploy_main",
+      "web3_scripts_deploy_js"
+    ],
+    "17": [
+      "next_config_js"
+    ],
+    "18": [
+      "postcss_config_js"
+    ],
+    "19": [
+      "tailwind_config_js"
+    ],
+    "20": [
+      "config_wagmi_js"
+    ],
+    "21": [
+      "utils_contractabi_js"
+    ],
+    "22": [
+      "utils_userstorage_js"
+    ],
+    "23": [
+      "web3_hardhat_config_js"
+    ]
+  },
+  "cohesion": {
+    "0": 0.15,
+    "1": 0.12,
+    "2": 0.3,
+    "3": 0.17,
+    "4": 0.33,
+    "5": 0.5,
+    "6": 1.0,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0
+  },
+  "gods": [
+    {
+      "id": "utils_kycstorage_getkycusers",
+      "label": "getKYCUsers()",
+      "degree": 11
+    },
+    {
+      "id": "utils_notificationstorage_getnotifications",
+      "label": "getNotifications()",
+      "degree": 10
+    },
+    {
+      "id": "hooks_usecontract_usesupplychaincontract",
+      "label": "useSupplyChainContract()",
+      "degree": 9
+    },
+    {
+      "id": "utils_kycstorage_updatekycuser",
+      "label": "updateKYCUser()",
+      "degree": 7
+    },
+    {
+      "id": "utils_notificationstorage_savenotifications",
+      "label": "saveNotifications()",
+      "degree": 7
+    },
+    {
+      "id": "utils_kycstorage_savekycusers",
+      "label": "saveKYCUsers()",
+      "degree": 6
+    },
+    {
+      "id": "layout_globalerrorboundary_globalerrorboundary",
+      "label": "GlobalErrorBoundary",
+      "degree": 5
+    },
+    {
+      "id": "utils_notificationstorage_addnotification",
+      "label": "addNotification()",
+      "degree": 5
+    },
+    {
+      "id": "admin_usermanagement_usermanagement",
+      "label": "UserManagement()",
+      "degree": 4
+    },
+    {
+      "id": "utils_kycstorage_addkycuser",
+      "label": "addKYCUser()",
+      "degree": 4
+    }
+  ],
+  "surprises": [
+    {
+      "source": "UserManagement()",
+      "target": "useSupplyChainContract()",
+      "source_files": [
+        "components\\Admin\\UserManagement.js",
+        "hooks\\useContract.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "ActivityChart()",
+      "target": "useSupplyChainContract()",
+      "source_files": [
+        "components\\Dashboard\\ActivityChart.js",
+        "hooks\\useContract.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `ActivityChart()` unexpectedly reaches hub `useSupplyChainContract()`"
+    },
+    {
+      "source": "RecentShipments()",
+      "target": "useSupplyChainContract()",
+      "source_files": [
+        "components\\Dashboard\\RecentShipments.js",
+        "hooks\\useContract.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `RecentShipments()` unexpectedly reaches hub `useSupplyChainContract()`"
+    },
+    {
+      "source": "CreateShipment()",
+      "target": "useSupplyChainContract()",
+      "source_files": [
+        "pages\\create-shipment.js",
+        "hooks\\useContract.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `CreateShipment()` unexpectedly reaches hub `useSupplyChainContract()`"
+    },
+    {
+      "source": "Dashboard()",
+      "target": "useSupplyChainContract()",
+      "source_files": [
+        "pages\\index.js",
+        "hooks\\useContract.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `Dashboard()` unexpectedly reaches hub `useSupplyChainContract()`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `useSupplyChainContract()` connect `Community 1` to `Community 0`?",
+      "why": "High betweenness centrality (0.083) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `UserManagement()` connect `Community 0` to `Community 1`?",
+      "why": "High betweenness centrality (0.072) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 8 inferred relationships involving `useSupplyChainContract()` (e.g. with `UserManagement()` and `ActivityChart()`) actually correct?",
+      "why": "`useSupplyChainContract()` has 8 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

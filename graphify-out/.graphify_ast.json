@@ -1,0 +1,3158 @@
+{
+  "nodes": [
+    {
+      "id": "next_config_js",
+      "label": "next.config.js",
+      "file_type": "code",
+      "source_file": "next.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "postcss_config_js",
+      "label": "postcss.config.js",
+      "file_type": "code",
+      "source_file": "postcss.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "tailwind_config_js",
+      "label": "tailwind.config.js",
+      "file_type": "code",
+      "source_file": "tailwind.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_admin_activeshipments_js",
+      "label": "ActiveShipments.js",
+      "file_type": "code",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "admin_activeshipments_activeshipments",
+      "label": "ActiveShipments()",
+      "file_type": "code",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L26"
+    },
+    {
+      "id": "components_admin_adminstats_js",
+      "label": "AdminStats.js",
+      "file_type": "code",
+      "source_file": "components\\Admin\\AdminStats.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "admin_adminstats_adminstats",
+      "label": "AdminStats()",
+      "file_type": "code",
+      "source_file": "components\\Admin\\AdminStats.js",
+      "source_location": "L21"
+    },
+    {
+      "id": "components_admin_pendingkyc_js",
+      "label": "PendingKYC.js",
+      "file_type": "code",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "admin_pendingkyc_pendingkyc",
+      "label": "PendingKYC()",
+      "file_type": "code",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L43"
+    },
+    {
+      "id": "components_admin_usermanagement_js",
+      "label": "UserManagement.js",
+      "file_type": "code",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "admin_usermanagement_usermanagement",
+      "label": "UserManagement()",
+      "file_type": "code",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L68"
+    },
+    {
+      "id": "components_dashboard_activitychart_js",
+      "label": "ActivityChart.js",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "dashboard_activitychart_activitychart",
+      "label": "ActivityChart()",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L13"
+    },
+    {
+      "id": "components_dashboard_quickactions_js",
+      "label": "QuickActions.js",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\QuickActions.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "dashboard_quickactions_quickactions",
+      "label": "QuickActions()",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\QuickActions.js",
+      "source_location": "L16"
+    },
+    {
+      "id": "components_dashboard_recentshipments_js",
+      "label": "RecentShipments.js",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "dashboard_recentshipments_recentshipments",
+      "label": "RecentShipments()",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L15"
+    },
+    {
+      "id": "components_dashboard_statscard_js",
+      "label": "StatsCard.js",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\StatsCard.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "dashboard_statscard_statscard",
+      "label": "StatsCard()",
+      "file_type": "code",
+      "source_file": "components\\Dashboard\\StatsCard.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "components_layout_customconnectbutton_js",
+      "label": "CustomConnectButton.js",
+      "file_type": "code",
+      "source_file": "components\\Layout\\CustomConnectButton.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "layout_customconnectbutton_customconnectbutton",
+      "label": "CustomConnectButton()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\CustomConnectButton.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "components_layout_globalerrorboundary_js",
+      "label": "GlobalErrorBoundary.js",
+      "file_type": "code",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "layout_globalerrorboundary_globalerrorboundary",
+      "label": "GlobalErrorBoundary",
+      "file_type": "code",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "layout_globalerrorboundary_globalerrorboundary_constructor",
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "layout_globalerrorboundary_globalerrorboundary_getderivedstatefromerror",
+      "label": ".getDerivedStateFromError()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L15"
+    },
+    {
+      "id": "layout_globalerrorboundary_globalerrorboundary_componentdidcatch",
+      "label": ".componentDidCatch()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L23"
+    },
+    {
+      "id": "layout_globalerrorboundary_globalerrorboundary_render",
+      "label": ".render()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L86"
+    },
+    {
+      "id": "components_layout_header_js",
+      "label": "Header.js",
+      "file_type": "code",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "layout_header_header",
+      "label": "Header()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L30"
+    },
+    {
+      "id": "components_layout_layout_js",
+      "label": "Layout.js",
+      "file_type": "code",
+      "source_file": "components\\Layout\\Layout.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "layout_layout_layout",
+      "label": "Layout()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\Layout.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "components_layout_sidebar_js",
+      "label": "Sidebar.js",
+      "file_type": "code",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "layout_sidebar_sidebar",
+      "label": "Sidebar()",
+      "file_type": "code",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L21"
+    },
+    {
+      "id": "config_wagmi_js",
+      "label": "wagmi.js",
+      "file_type": "code",
+      "source_file": "config\\wagmi.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_usecontract_js",
+      "label": "useContract.js",
+      "file_type": "code",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_usecontract_usesupplychaincontract",
+      "label": "useSupplyChainContract()",
+      "file_type": "code",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L23"
+    },
+    {
+      "id": "hooks_usesupplychainactions_js",
+      "label": "useSupplyChainActions.js",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_usesupplychainactions_useregisteruser",
+      "label": "useRegisterUser()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L22"
+    },
+    {
+      "id": "hooks_usesupplychainactions_usecreateshipment",
+      "label": "useCreateShipment()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L78"
+    },
+    {
+      "id": "hooks_usesupplychainactions_usestartshipment",
+      "label": "useStartShipment()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L154"
+    },
+    {
+      "id": "hooks_usesupplychainactions_useupdatetracking",
+      "label": "useUpdateTracking()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L205"
+    },
+    {
+      "id": "hooks_usesupplychainactions_usecompleteshipment",
+      "label": "useCompleteShipment()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L257"
+    },
+    {
+      "id": "hooks_usesupplychainactions_usecancelshipment",
+      "label": "useCancelShipment()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L309"
+    },
+    {
+      "id": "hooks_usesupplychainactions_useapprovekyc",
+      "label": "useApproveKYC()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L355"
+    },
+    {
+      "id": "hooks_usesupplychainactions_userejectkyc",
+      "label": "useRejectKYC()",
+      "file_type": "code",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L400"
+    },
+    {
+      "id": "pages_admin_js",
+      "label": "admin.js",
+      "file_type": "code",
+      "source_file": "pages\\admin.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_admin_adminpanel",
+      "label": "AdminPanel()",
+      "file_type": "code",
+      "source_file": "pages\\admin.js",
+      "source_location": "L34"
+    },
+    {
+      "id": "pages_create_shipment_js",
+      "label": "create-shipment.js",
+      "file_type": "code",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_create_shipment_createshipment",
+      "label": "CreateShipment()",
+      "file_type": "code",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L34"
+    },
+    {
+      "id": "pages_index_js",
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "pages\\index.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_index_dashboard",
+      "label": "Dashboard()",
+      "file_type": "code",
+      "source_file": "pages\\index.js",
+      "source_location": "L21"
+    },
+    {
+      "id": "pages_kyc_js",
+      "label": "kyc.js",
+      "file_type": "code",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_kyc_kycverification",
+      "label": "KYCVerification()",
+      "file_type": "code",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L29"
+    },
+    {
+      "id": "pages_shipments_js",
+      "label": "shipments.js",
+      "file_type": "code",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_shipments_myshipments",
+      "label": "MyShipments()",
+      "file_type": "code",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L24"
+    },
+    {
+      "id": "pages_tracking_js",
+      "label": "tracking.js",
+      "file_type": "code",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_tracking_trackingpage",
+      "label": "TrackingPage()",
+      "file_type": "code",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L38"
+    },
+    {
+      "id": "pages_app_js",
+      "label": "_app.js",
+      "file_type": "code",
+      "source_file": "pages\\_app.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_app_app",
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "pages\\_app.js",
+      "source_location": "L58"
+    },
+    {
+      "id": "pages_tracking_id_js",
+      "label": "[id].js",
+      "file_type": "code",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L1"
+    },
+    {
+      "id": "tracking_id_trackingdetails",
+      "label": "TrackingDetails()",
+      "file_type": "code",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L51"
+    },
+    {
+      "id": "utils_contractabi_js",
+      "label": "contractABI.js",
+      "file_type": "code",
+      "source_file": "utils\\contractABI.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_kycstorage_js",
+      "label": "kycStorage.js",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_kycstorage_getkycusers",
+      "label": "getKYCUsers()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L36"
+    },
+    {
+      "id": "utils_kycstorage_savekycusers",
+      "label": "saveKYCUsers()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L50"
+    },
+    {
+      "id": "utils_kycstorage_addkycuser",
+      "label": "addKYCUser()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L68"
+    },
+    {
+      "id": "utils_kycstorage_updatekycuser",
+      "label": "updateKYCUser()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L118"
+    },
+    {
+      "id": "utils_kycstorage_removekycuser",
+      "label": "removeKYCUser()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L167"
+    },
+    {
+      "id": "utils_kycstorage_getkycuserbyaddress",
+      "label": "getKYCUserByAddress()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L185"
+    },
+    {
+      "id": "utils_kycstorage_getkycusersbystatus",
+      "label": "getKYCUsersByStatus()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L204"
+    },
+    {
+      "id": "utils_kycstorage_searchkycusers",
+      "label": "searchKYCUsers()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L220"
+    },
+    {
+      "id": "utils_kycstorage_verifykycuser",
+      "label": "verifyKYCUser()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L251"
+    },
+    {
+      "id": "utils_kycstorage_rejectkycuser",
+      "label": "rejectKYCUser()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L265"
+    },
+    {
+      "id": "utils_kycstorage_suspendkycuser",
+      "label": "suspendKYCUser()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L278"
+    },
+    {
+      "id": "utils_kycstorage_reactivatekycuser",
+      "label": "reactivateKYCUser()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L290"
+    },
+    {
+      "id": "utils_kycstorage_updatekycstatistics",
+      "label": "updateKYCStatistics()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L302"
+    },
+    {
+      "id": "utils_kycstorage_getkycstatistics",
+      "label": "getKYCStatistics()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L336"
+    },
+    {
+      "id": "utils_kycstorage_clearallkycdata",
+      "label": "clearAllKYCData()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L354"
+    },
+    {
+      "id": "utils_kycstorage_exportkycdata",
+      "label": "exportKYCData()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L367"
+    },
+    {
+      "id": "utils_kycstorage_importkycdata",
+      "label": "importKYCData()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L392"
+    },
+    {
+      "id": "utils_kycstorage_getkycstorageinfo",
+      "label": "getKYCStorageInfo()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L426"
+    },
+    {
+      "id": "utils_kycstorage_validatekycuserdata",
+      "label": "validateKYCUserData()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L464"
+    },
+    {
+      "id": "utils_kycstorage_generateuserid",
+      "label": "generateUserId()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L508"
+    },
+    {
+      "id": "utils_kycstorage_isvalidemail",
+      "label": "isValidEmail()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L517"
+    },
+    {
+      "id": "utils_kycstorage_isvalidwalletaddress",
+      "label": "isValidWalletAddress()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L527"
+    },
+    {
+      "id": "utils_kycstorage_adddemokycusers",
+      "label": "addDemoKYCUsers()",
+      "file_type": "code",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L573"
+    },
+    {
+      "id": "utils_notificationstorage_js",
+      "label": "notificationStorage.js",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_notificationstorage_getnotifications",
+      "label": "getNotifications()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L15"
+    },
+    {
+      "id": "utils_notificationstorage_savenotifications",
+      "label": "saveNotifications()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L29"
+    },
+    {
+      "id": "utils_notificationstorage_addnotification",
+      "label": "addNotification()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L48"
+    },
+    {
+      "id": "utils_notificationstorage_removenotification",
+      "label": "removeNotification()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L78"
+    },
+    {
+      "id": "utils_notificationstorage_markasread",
+      "label": "markAsRead()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L94"
+    },
+    {
+      "id": "utils_notificationstorage_markallasread",
+      "label": "markAllAsRead()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L109"
+    },
+    {
+      "id": "utils_notificationstorage_getunreadcount",
+      "label": "getUnreadCount()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L126"
+    },
+    {
+      "id": "utils_notificationstorage_clearallnotifications",
+      "label": "clearAllNotifications()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L139"
+    },
+    {
+      "id": "utils_notificationstorage_getnotificationsbytype",
+      "label": "getNotificationsByType()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L152"
+    },
+    {
+      "id": "utils_notificationstorage_updatenotificationtimes",
+      "label": "updateNotificationTimes()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L165"
+    },
+    {
+      "id": "utils_notificationstorage_cleanupoldnotifications",
+      "label": "cleanupOldNotifications()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L184"
+    },
+    {
+      "id": "utils_notificationstorage_getstorageinfo",
+      "label": "getStorageInfo()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L205"
+    },
+    {
+      "id": "utils_notificationstorage_generateid",
+      "label": "generateId()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L229"
+    },
+    {
+      "id": "utils_notificationstorage_getrelativetime",
+      "label": "getRelativeTime()",
+      "file_type": "code",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L238"
+    },
+    {
+      "id": "utils_pinata_js",
+      "label": "pinata.js",
+      "file_type": "code",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_pinata_uploadfiletoipfs",
+      "label": "uploadFileToIPFS()",
+      "file_type": "code",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L11"
+    },
+    {
+      "id": "utils_pinata_uploadjsontoipfs",
+      "label": "uploadJSONToIPFS()",
+      "file_type": "code",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L56"
+    },
+    {
+      "id": "utils_pinata_getfromipfs",
+      "label": "getFromIPFS()",
+      "file_type": "code",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L84"
+    },
+    {
+      "id": "utils_pinata_uploadmultiplefiles",
+      "label": "uploadMultipleFiles()",
+      "file_type": "code",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L101"
+    },
+    {
+      "id": "utils_userstorage_js",
+      "label": "userStorage.js",
+      "file_type": "code",
+      "source_file": "utils\\userStorage.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "web3_hardhat_config_js",
+      "label": "hardhat.config.js",
+      "file_type": "code",
+      "source_file": "web3\\hardhat.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "web3_scripts_deploy_js",
+      "label": "deploy.js",
+      "file_type": "code",
+      "source_file": "web3\\scripts\\deploy.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "scripts_deploy_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "web3\\scripts\\deploy.js",
+      "source_location": "L3"
+    }
+  ],
+  "edges": [
+    {
+      "source": "components_admin_activeshipments_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_activeshipments_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_activeshipments_js",
+      "target": "viem",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_activeshipments_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_contractabi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_activeshipments_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_activeshipments_js",
+      "target": "admin_activeshipments_activeshipments",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\ActiveShipments.js",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_adminstats_js",
+      "target": "viem",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\AdminStats.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_adminstats_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\AdminStats.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_adminstats_js",
+      "target": "admin_adminstats_adminstats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\AdminStats.js",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_pendingkyc_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_pendingkyc_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_pendingkyc_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_contractabi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_pendingkyc_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_kycstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_pendingkyc_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_notificationstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_pendingkyc_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_pendingkyc_js",
+      "target": "admin_pendingkyc_pendingkyc",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\PendingKYC.js",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_contractabi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_kycstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "components_admin_usermanagement_js",
+      "target": "admin_usermanagement_usermanagement",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L68",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_activitychart_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_activitychart_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_activitychart_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_activitychart_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_activitychart_js",
+      "target": "dashboard_activitychart_activitychart",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_quickactions_js",
+      "target": "link",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\QuickActions.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_quickactions_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\QuickActions.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_quickactions_js",
+      "target": "dashboard_quickactions_quickactions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\QuickActions.js",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_recentshipments_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_recentshipments_js",
+      "target": "link",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_recentshipments_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_recentshipments_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_recentshipments_js",
+      "target": "dashboard_recentshipments_recentshipments",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_statscard_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\StatsCard.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_dashboard_statscard_js",
+      "target": "dashboard_statscard_statscard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Dashboard\\StatsCard.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_customconnectbutton_js",
+      "target": "rainbowkit",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\CustomConnectButton.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_customconnectbutton_js",
+      "target": "ri",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\CustomConnectButton.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_customconnectbutton_js",
+      "target": "layout_customconnectbutton_customconnectbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\CustomConnectButton.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_globalerrorboundary_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_globalerrorboundary_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_globalerrorboundary_js",
+      "target": "layout_globalerrorboundary_globalerrorboundary",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "layout_globalerrorboundary_globalerrorboundary",
+      "target": "layout_globalerrorboundary_globalerrorboundary_constructor",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "layout_globalerrorboundary_globalerrorboundary",
+      "target": "layout_globalerrorboundary_globalerrorboundary_getderivedstatefromerror",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "layout_globalerrorboundary_globalerrorboundary",
+      "target": "layout_globalerrorboundary_globalerrorboundary_componentdidcatch",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "layout_globalerrorboundary_globalerrorboundary",
+      "target": "layout_globalerrorboundary_globalerrorboundary_render",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\GlobalErrorBoundary.js",
+      "source_location": "L86",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_header_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_header_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_header_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_header_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_customconnectbutton",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_header_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_notificationstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_header_js",
+      "target": "layout_header_header",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Header.js",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_layout_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Layout.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_layout_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_sidebar",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Layout.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_layout_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_header",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Layout.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_layout_js",
+      "target": "layout_layout_layout",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Layout.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_sidebar_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_sidebar_js",
+      "target": "link",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_sidebar_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_sidebar_js",
+      "target": "router",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_sidebar_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "components_layout_sidebar_js",
+      "target": "layout_sidebar_sidebar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\Layout\\Sidebar.js",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "config_wagmi_js",
+      "target": "rainbowkit",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "config\\wagmi.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "config_wagmi_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "config\\wagmi.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "config_wagmi_js",
+      "target": "jsonrpc",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "config\\wagmi.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "viem",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_contractabi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_notificationstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_kycstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usecontract_js",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useContract.js",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "viem",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_contractabi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_notificationstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_kycstorage",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_useregisteruser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_usecreateshipment",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_usestartshipment",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L154",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_useupdatetracking",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L205",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_usecompleteshipment",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L257",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_usecancelshipment",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L309",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_useapprovekyc",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L355",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_usesupplychainactions_js",
+      "target": "hooks_usesupplychainactions_userejectkyc",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hooks\\useSupplyChainActions.js",
+      "source_location": "L400",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usesupplychainactions",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_contractabi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_admin_adminstats",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_admin_pendingkyc",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_admin_activeshipments",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_admin_usermanagement",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_js",
+      "target": "pages_admin_adminpanel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\admin.js",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_pinata",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_js",
+      "target": "pages_create_shipment_createshipment",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_dashboard_statscard",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_dashboard_recentshipments",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_dashboard_activitychart",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_dashboard_quickactions",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_js",
+      "target": "pages_index_dashboard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\index.js",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usesupplychainactions",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_pinata",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_contractabi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_js",
+      "target": "pages_kyc_kycverification",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\kyc.js",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_js",
+      "target": "link",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_js",
+      "target": "pages_shipments_myshipments",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\shipments.js",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "router",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "link",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_js",
+      "target": "pages_tracking_trackingpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking.js",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_styles_globals_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "styles_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "rainbowkit",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "react_query",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_config_wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_globalerrorboundary",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_app_js",
+      "target": "pages_app_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\_app.js",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "router",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "wagmi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_hooks_usecontract",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_utils_pinata",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "c_users_poorna_chandra_d_n_downloads_advance_supply_chain_dapp_advance_supply_chain_dapp_components_layout_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "react_hot_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "fi",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_id_js",
+      "target": "tracking_id_trackingdetails",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_savekycusers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_addkycuser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L68",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_updatekycuser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L118",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_removekycuser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L167",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_getkycuserbyaddress",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L185",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_getkycusersbystatus",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L204",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_searchkycusers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L220",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_verifykycuser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L251",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_rejectkycuser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L265",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_suspendkycuser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L278",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_reactivatekycuser",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L290",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_updatekycstatistics",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L302",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_getkycstatistics",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L336",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_clearallkycdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L354",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_exportkycdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L367",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_importkycdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L392",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_getkycstorageinfo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L426",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_validatekycuserdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L464",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_generateuserid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L508",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_isvalidemail",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L517",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_isvalidwalletaddress",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L527",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_js",
+      "target": "utils_kycstorage_adddemokycusers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L573",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_savekycusers",
+      "target": "utils_kycstorage_updatekycstatistics",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_addkycuser",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L70",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_addkycuser",
+      "target": "utils_kycstorage_generateuserid",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L82",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_addkycuser",
+      "target": "utils_kycstorage_savekycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_updatekycuser",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L120",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_updatekycuser",
+      "target": "utils_kycstorage_savekycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L154",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_removekycuser",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_removekycuser",
+      "target": "utils_kycstorage_savekycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_getkycuserbyaddress",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L187",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_getkycusersbystatus",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L206",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_searchkycusers",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L222",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_verifykycuser",
+      "target": "utils_kycstorage_updatekycuser",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L252",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_rejectkycuser",
+      "target": "utils_kycstorage_updatekycuser",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L266",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_suspendkycuser",
+      "target": "utils_kycstorage_updatekycuser",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L279",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_reactivatekycuser",
+      "target": "utils_kycstorage_updatekycuser",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L291",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_updatekycstatistics",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L305",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_getkycstatistics",
+      "target": "utils_kycstorage_updatekycstatistics",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L343",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_exportkycdata",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L369",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_exportkycdata",
+      "target": "utils_kycstorage_getkycstatistics",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L370",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_importkycdata",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L403",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_importkycdata",
+      "target": "utils_kycstorage_savekycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L414",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_getkycstorageinfo",
+      "target": "utils_kycstorage_getkycusers",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L428",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_validatekycuserdata",
+      "target": "utils_kycstorage_isvalidemail",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L482",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_kycstorage_validatekycuserdata",
+      "target": "utils_kycstorage_isvalidwalletaddress",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\kycStorage.js",
+      "source_location": "L486",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_savenotifications",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_addnotification",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_removenotification",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_markasread",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L94",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_markallasread",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_getunreadcount",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L126",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_clearallnotifications",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L139",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_getnotificationsbytype",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L152",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_updatenotificationtimes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L165",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_cleanupoldnotifications",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L184",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_getstorageinfo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L205",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_generateid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L229",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_js",
+      "target": "utils_notificationstorage_getrelativetime",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L238",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_addnotification",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_addnotification",
+      "target": "utils_notificationstorage_generateid",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_addnotification",
+      "target": "utils_notificationstorage_getrelativetime",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_addnotification",
+      "target": "utils_notificationstorage_savenotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_removenotification",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_removenotification",
+      "target": "utils_notificationstorage_savenotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L84",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_markasread",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L96",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_markasread",
+      "target": "utils_notificationstorage_savenotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_markallasread",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L111",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_markallasread",
+      "target": "utils_notificationstorage_savenotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L116",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_getunreadcount",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L128",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_getnotificationsbytype",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L154",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_updatenotificationtimes",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L167",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_updatenotificationtimes",
+      "target": "utils_notificationstorage_savenotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L172",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_cleanupoldnotifications",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L186",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_cleanupoldnotifications",
+      "target": "utils_notificationstorage_savenotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L195",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_getstorageinfo",
+      "target": "utils_notificationstorage_getnotifications",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L207",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_notificationstorage_getstorageinfo",
+      "target": "utils_notificationstorage_getunreadcount",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\notificationStorage.js",
+      "source_location": "L215",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_pinata_js",
+      "target": "axios",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_pinata_js",
+      "target": "utils_pinata_uploadfiletoipfs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_pinata_js",
+      "target": "utils_pinata_uploadjsontoipfs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_pinata_js",
+      "target": "utils_pinata_getfromipfs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L84",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_pinata_js",
+      "target": "utils_pinata_uploadmultiplefiles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L101",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_pinata_uploadmultiplefiles",
+      "target": "utils_pinata_uploadfiletoipfs",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "utils\\pinata.js",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "web3_scripts_deploy_js",
+      "target": "scripts_deploy_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "web3\\scripts\\deploy.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "admin_usermanagement_usermanagement",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "admin_usermanagement_usermanagement",
+      "target": "utils_kycstorage_searchkycusers",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "admin_usermanagement_usermanagement",
+      "target": "utils_kycstorage_getkycstatistics",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components\\Admin\\UserManagement.js",
+      "source_location": "L316",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard_activitychart_activitychart",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components\\Dashboard\\ActivityChart.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard_recentshipments_recentshipments",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components\\Dashboard\\RecentShipments.js",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_adminpanel",
+      "target": "hooks_usesupplychainactions_useapprovekyc",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\admin.js",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_admin_adminpanel",
+      "target": "hooks_usesupplychainactions_userejectkyc",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\admin.js",
+      "source_location": "L82",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_create_shipment_createshipment",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\create-shipment.js",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_index_dashboard",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\index.js",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_kyc_kycverification",
+      "target": "hooks_usesupplychainactions_useregisteruser",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\kyc.js",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_shipments_myshipments",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\shipments.js",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_tracking_trackingpage",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\tracking.js",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "tracking_id_trackingdetails",
+      "target": "hooks_usecontract_usesupplychaincontract",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pages\\tracking\\[id].js",
+      "source_location": "L65",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
